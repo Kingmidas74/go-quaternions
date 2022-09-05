@@ -12,7 +12,7 @@ Axiom of quaternion algebra (described by Sir William Rowan Hamilton at 1843):
 
 Also, I used to dual quaternions (based on dual numbers):
 
-<img src="https://latex.codecogs.com/svg.latex?B=p+Iq" alt="B-quaternion"/>, где <img src="https://latex.codecogs.com/svg.latex?p,q%20\in%20\mathbb{H},%20I^2=0,%20I%20\neq%200" alt="B-quaternion"/>
+<img src="https://latex.codecogs.com/svg.latex?B=p+Iq" alt="B-quaternion"/>, where <img src="https://latex.codecogs.com/svg.latex?p,q%20\in%20\mathbb{H},%20I^2=0,%20I%20\neq%200" alt="B-quaternion"/>
 
 All basic operations was hidden by Vec3 abstraction, so you can use it for your purpose.
 
